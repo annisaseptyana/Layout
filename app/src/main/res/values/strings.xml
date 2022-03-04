@@ -27,4 +27,6 @@
     <string name="dijual_oleh">Dijual oleh</string>
     <string name="narendra_wicaksono">Narendra Wicaksono</string>
     <string name="beli">Beli</string>
+    <string name="other_layouts">Other Layouts</string>
+    <string name="constraint_layout">Constraint Layout</string>
 </resources>
