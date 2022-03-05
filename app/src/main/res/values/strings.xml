@@ -29,4 +29,7 @@
     <string name="beli">Beli</string>
     <string name="other_layouts">Other Layouts</string>
     <string name="constraint_layout">Constraint Layout</string>
+    <string name="seller">Seller</string>
+    <string name="my_name">Mieze Katze</string>
+    <string name="buy">Buy</string>
 </resources>

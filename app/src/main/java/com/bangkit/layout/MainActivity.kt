@@ -18,6 +18,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(moveToOtherActivities)
         }
 
-
+        val btnConstraintLayout: Button = findViewById(R.id.btn_constraintlayout)
+        btnConstraintLayout.setOnClickListener{
+            val moveToConstraintLayout = Intent(this@MainActivity, ConstraintLayout::class.java)
+            startActivity(moveToConstraintLayout)
+        }
     }
 }
